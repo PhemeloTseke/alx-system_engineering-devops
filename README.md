@@ -1,1 +1,1 @@
-This is my practice for shell basics
+this my main readme
